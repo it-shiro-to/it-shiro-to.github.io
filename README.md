@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+﻿## ようこそ
 
 You can use the [editor on GitHub](https://github.com/it-shiro-to/it-shiro-to.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
